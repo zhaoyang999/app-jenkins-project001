@@ -1,0 +1,16 @@
+test_add_address_case:
+  test_add_address_case_001:
+    name: '张三'
+    phone: 18888888888
+    address: '昌平区于辛庄路1号赋腾2005'
+    postcode: '100000'
+  test_add_address_case_002:
+    name: '李四'
+    phone: 17777777777
+    address: '昌平区于辛庄路1号赋腾2004'
+    postcode: '200000'
+  test_add_address_case_003:
+    name: '王五'
+    phone: 16666666666
+    address: '昌平区于辛庄路1号赋腾2003'
+    postcode: '300000'

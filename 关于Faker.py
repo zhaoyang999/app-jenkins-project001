@@ -1,0 +1,15 @@
+from faker import Faker
+
+faker = Faker(locale='zh_CN')
+name = faker.name()
+address = faker.address()
+id_card = faker.ssn()
+company = faker.company()
+job = faker.job()
+phone = faker.phone_number()
+print(name)
+print(address)
+print(id_card)
+print(company)
+print(job)
+print(phone)
