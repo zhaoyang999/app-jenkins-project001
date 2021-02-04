@@ -32,6 +32,9 @@ sleep(1)
 driver.find_element_by_xpath('//*[@text="我"]').click()
 driver.find_element_by_id('com.yunmall.lc:id/ymtitlebar_left_btn_image').click()
 
+
+
+
 driver.find_element_by_xpath('//*[@text="地址管理"]').click()
 # driver.find_element_by_xpath('//*[@text="新增地址"]').click()
 # driver.find_element_by_id('com.yunmall.lc:id/address_province').click()
